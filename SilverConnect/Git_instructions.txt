@@ -1,0 +1,17 @@
+# 1. First time do git clone
+cd C:\
+git clone https://github.com/softwarelab3/2006-SCE3-67.git
+cd C:\2006-SCE3-67
+# 2. Create and move to a branch
+git branch lucas
+git checkout lucas
+# 3. Get the latest changes from GitHub
+git fetch origin
+git merge origin
+# 4. After you done working, Stage your changes
+git add .
+# 5. Commit your changes (message inline to avoid Vim)
+git commit -m ""
+# 6. Push your branch to GitHub
+git push origin lucas
+# 7. Then, go to github and accept your Pull Request
