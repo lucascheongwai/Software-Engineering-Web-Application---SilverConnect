@@ -95,8 +95,13 @@ Download and install Node.js (includes `npm`):
 ## 3. Run the Frontend
 1. Open a **first terminal** (cmd).  
 2. Navigate to the frontend folder:
-   **cd C:\2006-SCE3-67\SilverConnect\frontend**
-3. Install dependencies and start the dev server: **npm install && npm run dev**
+```bash
+cd C:\Software-Engineering-Web-Application---SilverConnect\SilverConnect\frontend
+```
+3. Install dependencies and start the dev server:
+```bash
+npm install && npm run dev
+```
 4. Open your browser and go to:  
    👉 [http://localhost:5173](http://localhost:5173)
 
@@ -105,17 +110,26 @@ Download and install Node.js (includes `npm`):
 ### Install PostgreSQL
 1. Download and install PostgreSQL:  
    👉 [Install PostgreSQL Guide](https://www.w3schools.com/postgresql/postgresql_install.php)  
-2. After installation, open **SQL Shell (psql)**.  Type sql in search bar.
-3. Press **Enter** through all prompts until asked for a password. Type:
+2. After installation, open **SQL Shell (psql)**.
+```bash
+sql
+```
+4. Press **Enter** through all prompts until asked for a password. Type:
    **postgres**
-4. Create the database:
-   **CREATE DATABASE silverconnect;**
-
+5. Create the database:
+```bash
+CREATE DATABASE silverconnect;
+```
 ### Start the Backend
 1. Open a **second terminal**.  
 2. Navigate to the backend folder:
-   **cd C:\2006-SCE3-67\SilverConnect\backend**
+```bash
+cd C:\Software-Engineering-Web-Application---SilverConnect\SilverConnect\backend
+```
 3. Install dependencies and start the backend server: **npm install && npm run dev**
+```bash
+npm install && npm run dev
+```
 
 ## 5. External APIs
 
