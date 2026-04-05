@@ -81,7 +81,7 @@ These instructions will help you set up and run the **frontend** and **backend**
 
 ## 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/lucascheongwai/Software-Engineering-Web-Application---SilverConnect.git
 ```
 
 ---
