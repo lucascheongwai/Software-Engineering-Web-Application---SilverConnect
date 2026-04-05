@@ -7,8 +7,8 @@
   <img src="/SilverConnect/frontend/public/logo.svg" width=150 />
 </p>            
 <p align="center">
-    <a href="SilverConnect/frontend">Frontend</a>
-    <a href="SilverConnect/backend">Backend</a>
+    <a href="SilverConnect/frontend">Frontend</a> |
+    <a href="SilverConnect/backend">Backend</a> |
     <a href="https://www.youtube.com/watch?v=SxK-QA6tR-0">Demo Video</a>
 </p>
 
