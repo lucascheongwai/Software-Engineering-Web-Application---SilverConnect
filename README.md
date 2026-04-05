@@ -110,23 +110,20 @@ npm install && npm run dev
 ### Install PostgreSQL
 1. Download and install PostgreSQL:  
    👉 [Install PostgreSQL Guide](https://www.w3schools.com/postgresql/postgresql_install.php)  
-2. After installation, open **SQL Shell (psql)**.
-```bash
-sql
-```
-4. Press **Enter** through all prompts until asked for a password. Type:
+2. After installation, open **SQL Shell (psql)**. Type 'sql' in search bar in windows. 
+3. Press **Enter** through all prompts until asked for a password. Type:
    **postgres**
-5. Create the database:
+4. Create the database:
 ```bash
 CREATE DATABASE silverconnect;
 ```
 ### Start the Backend
-1. Open a **second terminal**.  
-2. Navigate to the backend folder:
+5. Open a **second terminal**.  
+6. Navigate to the backend folder:
 ```bash
 cd C:\Software-Engineering-Web-Application---SilverConnect\SilverConnect\backend
 ```
-3. Install dependencies and start the backend server: **npm install && npm run dev**
+7. Install dependencies and start the backend server: **npm install && npm run dev**
 ```bash
 npm install && npm run dev
 ```
