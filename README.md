@@ -81,7 +81,7 @@ These instructions will help you set up and run the **frontend** and **backend**
 
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/lucascheongwai/Software-Engineering-Web-Application---SilverConnect.git
+git clone https://github.com/lucascheongwai/NTU-SC2006-Software-Engineering-Web-App--SilverConnect.git
 ```
 
 ---
@@ -96,7 +96,7 @@ Download and install Node.js (includes `npm`):
 1. Open a **first terminal** (cmd).  
 2. Navigate to the frontend folder:
 ```bash
-cd C:\Software-Engineering-Web-Application---SilverConnect\SilverConnect\frontend
+cd C:\NTU-SC2006-Software-Engineering-Web-App--SilverConnect\SilverConnect\frontend
 ```
 3. Install dependencies and start the dev server:
 ```bash
@@ -121,7 +121,7 @@ CREATE DATABASE silverconnect;
 5. Open a **second terminal**.  
 6. Navigate to the backend folder:
 ```bash
-cd C:\Software-Engineering-Web-Application---SilverConnect\SilverConnect\backend
+cd C:\NTU-SC2006-Software-Engineering-Web-App--SilverConnect\SilverConnect\backend
 ```
 7. Install dependencies and start the backend server: **npm install && npm run dev**
 ```bash
